@@ -1,0 +1,28 @@
+h1 {
+    font-size: 35px;
+    font-family: "Madimi One", sans-serif;
+}
+
+body {
+    font-family: "Madimi One", sans-serif;
+}
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+.p {
+    font-size: 20px;
+}
+.code {
+    font-family: "Noto Sans KR", sans-serif;
+    max-width: 5000px;
+    max-height: 500px;
+}
+
+.result {
+    font-family: "Noto Sans KR", sans-serif;
+}
