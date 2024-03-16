@@ -1,13 +1,13 @@
 package main
 
 func putchar() {
-	_putchar(true, '_', 1)
-	_putchar(true, 'p', 1)
-	_putchar(true, 'u', 1)
-	_putchar(true, 't', 1)
-	_putchar(true, 'c', 1)
-	_putchar(true, 'h', 1)
-	_putchar(true, 'a', 1)
-	_putchar(true, 'r', 1)
-	_putchar(true, '\n', 1)
+	_putchar("_")
+	_putchar("p")
+	_putchar("u")
+	_putchar("t")
+	_putchar("c")
+	_putchar("h")
+	_putchar("a")
+	_putchar("r")
+	_putchar("\n")
 }
